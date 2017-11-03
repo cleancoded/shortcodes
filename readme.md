@@ -1,9 +1,7 @@
-Shortcodes Ultimate for WordPress
+Useful Shortcodes for WordPress
 =================================
 
-* [Project website](https://getshortcodes.com/)
-* [Live demo](https://getshortcodes.com/shortcodes/)
-* [Documentation](http://docs.getshortcodes.com/)
-* [WordPress.org page](https://wordpress.org/plugins/shortcodes-ultimate/)
+* [check for more info from website](https://cleancoded.com/)
+* [forked from](https://wordpress.org/plugins/shortcodes-ultimate/)
 
 Licensed under GPLv3, see license.txt file.
